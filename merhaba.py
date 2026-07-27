@@ -19,3 +19,7 @@ for index, word in enumerate(words):
 
 list(range(10))
 print(list(range(10))
+
+
+name = input("enter ur name")
+print("you entered this number:", name)
