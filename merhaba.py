@@ -23,3 +23,11 @@ print(list(range(10))
 
 name = input("enter ur name")
 print("you entered this number:", name)
+
+
+person():
+    person = input("personality: "):
+        if person == brown hair()
+        ptint("your hair color is brown")
+      else:
+      print("ur hair is not brown")
